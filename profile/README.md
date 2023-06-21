@@ -5,7 +5,7 @@
 
 <!-- - Raise an  [issue](https://github.com/Dijkstra-Edu/Support/issues/new?assignees=&labels=Join+Dijkstra&template=invitation.md&title=Please+send+an+invite+to+join+Dijkstra's+GitHub+Community+Organization) to join Dijkstra's GitHub Organization. -->
 - Raise an [issue](https://github.com/Dijkstra-Edu/Support/issues/new?assignees=&labels=Join+Dijkstra&projects=&template=join-dijkstra.md&title=%5BJoin+Dijkstra%5D) to join Dijkstra's GitHub Organization.
-- Join DIjkstra's [Discord](https://discord.com/invite/Vs87cBBU) Server.
+- Join DIjkstra's [Discord](https://discord.gg/Ct82yF3KAU) Server.
 - Read up about Dijkstra's Mission [here](https://github.com/Dijkstra-Edu/Dijkstra#readme).
 - Want to get started with development? Go [here](https://github.com/Dijkstra-Edu/Dijkstra).
 - Want to help out with Educative content? Feel free to check out the following repositories:
