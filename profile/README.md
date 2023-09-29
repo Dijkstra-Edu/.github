@@ -7,7 +7,10 @@
 - Raise an [issue](https://github.com/Dijkstra-Edu/Support/issues/new?assignees=&labels=Join+Dijkstra&projects=&template=join-dijkstra.md&title=%5BJoin+Dijkstra%5D) to join Dijkstra's GitHub Organization. (Don't forget to publicize your Organization status! Follow the instructions given [here](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-your-membership-in-organizations/publicizing-or-hiding-organization-membership)).
 - Join DIjkstra's [Discord](https://discord.gg/Ct82yF3KAU) Server. 
 - Read up about Dijkstra's Mission [here](https://github.com/Dijkstra-Edu/Dijkstra#readme).
-- Want to get started with development? Go [here](https://github.com/Dijkstra-Edu/Dijkstra).
+- Want to get started with development? Go [here](https://github.com/Dijkstra-Edu/Dijkstra). You can jump into the following repos to get started:
+  - [Dijkstra API Suite](https://github.com/Dijkstra-Edu/Dijkstra-API-suite) (Node.js - API Development)
+  - [Dijkstra Admin](https://github.com/Dijkstra-Edu/Dijkstra-Admin) (React.js - Frontend Web Development)
+  - [Dijkstra App](https://github.com/Dijkstra-Edu/Dijkstra) (React Native - React Native Development)
 - Want to help out with Educative content? Feel free to check out the following repositories:
   - [Java DSA Fundamentals](https://github.com/Dijkstra-Edu/DSA-Fundamentals---JAVA) (Need help with [Markup]())
   - [LeetCode Solutions](https://github.com/Dijkstra-Edu/LeetCode-Solutions) (Need help with [Markup]())
