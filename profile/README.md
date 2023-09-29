@@ -14,11 +14,51 @@
   - [AlgoExpert Solutions](https://github.com/Dijkstra-Edu/AlgoExpert-Solutions) (Need help with [Markup]())
   - [HackerRank Solutions](https://github.com/Dijkstra-Edu/HackerRank-Solutions) (Need help with [Markup]())
 
-<!-- **Here are some ideas to get you started:**
+## TaskList (Things to do)
+There's a LOT to be done. Feel free to pick up a task from this TaskList, or try tackling an issue or two from the issues section. Also, feel free to suggest any fixes, features and suggestions. Your ideas shape Dijkstra, and it's potential to impact thousands of students around the world!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
- -->
+### Administration
+- Company Landing Page
+  - [x] Coming Soon Page - It's [live](https://dijkstra-edu.github.io/Dijkstra-Web/)!
+  - [ ] Final Landing Page
+- Documentation
+  - [ ] GitBook Docs
+- Outreach
+  - [x] LinkedIn Page (Organization)
+  - [ ] Posters + Marketing (Organization)
+  - [x] Discord Server (Organization)
+
+### v2.0.0
+- Open Source Kickstart
+  - [ ] Make flyers for OS contribution
+  - [ ] Try getting traffic up and running (GDSC, IEEE, VIT) for both use + OS support
+- App
+  - [x] - Splash Screen Loader (Wait for Home page to render completely)
+  - [ ] - Splash Screen Loader (Wait for Home page to render completely)
+  - [ ] - Make Markup Area Larger
+  - [ ] - Fix Search - Backend functionality
+  - [ ] - Fix links access from App
+  - [ ] - Loader for Fetching more posts (Home)
+  - [x] - Fix Status Bar
+  - [x] - Info Card (+Link to portfolio as well as Feedback form)
+  - [x] - Redesign main home and search → Set theme and Color + Bottom Navigator Color
+  - [ ] - Blog Post Design + Colour Handling (how to deal with color depending on Thumbnail Color)
+  - [ ] - Fix Search (change for each letter)
+  - [ ] - Fix Markup Handling
+  - [ ] - Authentication token (bearer token, or if possible, research basic auth and add to routes)
+- Admin
+  - [ ] - Make BOT to auto build out a blog post
+  - [ ] - Splash Screen Loader
+  - [ ] - Add Account Name + Icon for Admin
+  - [ ] - Account Handling (Password Protection for ADMIN)
+  - [ ] - Handle duplicate image upload for cloud
+
+### v3.0.0 (Tenative)
+- [ ] Trash → Place schema to handle Trash
+- [ ] Tags Menu (Like Home, but with bubbles for different tags + Search via tags) + Groups Home Screen additions
+- [ ] Notification for new featured post
+- [ ] Discussion Room (discuss anything related to placements) - Common Questions, topics, further opportunities, Video references, Useful Links
+- [ ] User Login + Auth for App accounts
+- [ ] Comments → Disqus
+- [ ] Share Post as Web Page Snippet - add mailing list as well ig?
+- [ ] Certification Bot + Role handlers (To track progress of individual members + AI generated Letters of Recommendation
